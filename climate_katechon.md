@@ -21,10 +21,14 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
 <hr class="solid">
 
 <div class="imageflex">
-  <img src="https://www.versobooks.com/cdn/shop/files/getimage_f45d7643-b047-43ee-b1e9-ec7ec7f9f791.jpg?v=1740807295&width=584" height="100px">
-  <p class="imageflexcontent">
-    Climate Leviathan
-  </p>
+  <div>
+    <img src="https://www.versobooks.com/cdn/shop/files/getimage_f45d7643-b047-43ee-b1e9-ec7ec7f9f791.jpg?v=1740807295&width=584" height="100px">
+  </div>
+  <div>
+    <p class="imageflexcontent">
+      Climate Leviathan: A Political Theory of Our Planetary Future
+    </p>
+  </div>
 </div>
 
 

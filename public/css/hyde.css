@@ -155,7 +155,7 @@ hr.solid {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 40em) {
   .content {
     max-width: 48rem;
     margin-left: 24rem;
@@ -163,7 +163,7 @@ hr.solid {
   }
 }
 
-@media (min-width: 48em) {
+@media (min-width: 40em) {
   .content {
     margin-left: 24rem;
     margin-right: 2rem;

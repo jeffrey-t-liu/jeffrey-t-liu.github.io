@@ -37,8 +37,8 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
 </div>
 
 <div class="imageflex">
-  <div>
-    <img class="imgsize"; src="https://www.hup.harvard.edu/img/feeds/jackets/9780674013476.png">
+  <div class="imgsize">
+    <img src="https://www.hup.harvard.edu/img/feeds/jackets/9780674013476.png">
   </div>
   <div>
     <h6>

@@ -14,9 +14,9 @@ Instead, I propose that the logical conclusion of a faithful interpretation of S
 concept of the Climate Leviathan, Climate Katechon emerges through the incorporation of Schmitt’s critique of Hobbes’ Leviathan and the application of Schmitt’s postwar writings to the environmental crisis. Drawing on Schmitt’s work over the course of his entire life, Climate Katechon is a sketch of a highly authoritarian global authority with the sovereign power to end the environmental crisis through any means necessary. The development of Climate Katechon is not presented as a desirable outcome but rather as a theoretical exercise to illustrate why Schmitt’s thought ought not to be used to build emancipatory frameworks.
 
 
-<h1>
+<h2>
   Further reading:
-</h1>
+</h2>
 
 <hr class="solid">
 

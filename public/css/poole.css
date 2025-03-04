@@ -43,12 +43,18 @@
 
 html,
 body {
-  margin: -22rem;
+  margin: 0;
   padding: 0;
+  
+}
+
+header-image {
   background-image: url('https://phantom-elmundo.unidadeditorial.es/a6f5058beaa96af2dd908d6daac29410/crop/0x121/1900x1388/resize/990/f/webp/assets/multimedia/imagenes/2023/04/17/16816884730399.jpg');
   background-repeat: no-repeat;
   background-attachment: local;  
   background-size: cover;
+  background-position: center;
+  position: relative;
 }
 
 html {

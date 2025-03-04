@@ -4,6 +4,9 @@ title: >-
   Climate Katechon: A Reconceptualisation of Carl Schmitt in Climate Politics
 ---
 
+<carl_schmitt>
+</carl_schmitt>
+
 <hr class="solid">
 
 This paper explores the perplexing uptake of the legal-political thought of Carl Schmitt, a committed right-wing thinker, by left-wing scholars to address the ongoing environmental crisis. I argue that Schmitt's emphasis on the ontological equality of entities engaged in conflict is used as a framework by contemporary scholars like Bruno Latour (2004, 2017) to institutionalise the agentic equality between humans and the environment. Scholars like Latour attempt to use this equality to establish a novel political framework to seek emancipatory political solutions to the environmental crisis. 

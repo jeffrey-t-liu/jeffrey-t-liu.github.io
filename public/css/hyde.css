@@ -317,6 +317,6 @@ hr.solid {
   margin-top: 5px; 
 }
 .imageflex .imgsize {
-  min-width: 10rem;
-  max-width: 10rem;
+  min-width: 8rem;
+  max-width: 8rem;
 }

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Climate katechon
+title: Climate Katechon: A Reconceptualisation of Carl Schmitt in Climate Politics
 ---
 
 ___

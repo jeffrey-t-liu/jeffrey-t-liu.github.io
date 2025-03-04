@@ -21,7 +21,7 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
 <hr class="solid">
 
 <div class="imageflex">
-  <img src="[https://images.unsplash.com/photo-1487111023822-2e903e12f6f0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80](https://www.versobooks.com/cdn/shop/files/getimage_f45d7643-b047-43ee-b1e9-ec7ec7f9f791.jpg?v=1740807295&width=584)" height="100px">
+  <img src="https://www.versobooks.com/cdn/shop/files/getimage_f45d7643-b047-43ee-b1e9-ec7ec7f9f791.jpg?v=1740807295&width=584" height="100px">
   <p class="imageflexcontent">
     Climate Leviathan
   </p>

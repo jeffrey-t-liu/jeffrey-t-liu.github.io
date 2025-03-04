@@ -316,7 +316,7 @@ hr.solid {
   margin-left: 10px; 
   margin-top: 5px; 
 }
-imageflex .imgsize {
+imageflex > div .imgsize {
   min-width: 10rem;
   max-width: 10rem;
 }

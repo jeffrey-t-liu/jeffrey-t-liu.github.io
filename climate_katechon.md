@@ -22,6 +22,22 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
 
 <div class="imageflex">
   <div>
+    <img src="https://www.hup.harvard.edu/img/feeds/jackets/9780674013476.png?fm=jpg&q=80&fit=max&w=800">
+  </div>
+  <div>
+    <h6>
+      Politics of Nature: How to Bring the Sciences into Democracy
+    </h6>
+    <small>
+      by <em>Bruno Latour</em>
+      <br/>
+      In this book, Latour proposes a more inclusive, participatory model of democracy where scientific knowledge is not seen as objective and separate from society, but rather as something co-produced through collective deliberation. He suggests replacing the old dualism of nature vs. society with a new political system that integrates human and non-human actors (like animals, ecosystems, and technologies) into decision-making processes.
+    </small>
+  </div>
+</div>
+
+<div class="imageflex">
+  <div>
     <img src="https://www.versobooks.com/cdn/shop/files/getimage_f45d7643-b047-43ee-b1e9-ec7ec7f9f791.jpg?v=1740807295&width=584">
   </div>
   <div>
@@ -35,5 +51,6 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
     </small>
   </div>
 </div>
+
 
 

@@ -22,6 +22,22 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
 
 <div class="imageflex">
   <div>
+    <img src="https://media.wiley.com/product_data/coverImage300/35/07456843/0745684335.jpg">
+  </div>
+  <div>
+    <h6>
+      Facing Gaia: Eight Lectures on the New Climatic Regime
+    </h6>
+    <small>
+      by <em>Bruno Latour</em>
+      <br/>
+      This book is based on a series of lectures where Latour engages with the figure of Gaia — drawn from the Gaia hypothesis by James Lovelock — which proposes that the Earth is a self-regulating, living system. However, Latour strips Gaia of any mystical or harmonious connotations, instead portraying it as a volatile, unpredictable force that defies human control.
+    </small>
+  </div>
+</div>
+
+<div class="imageflex">
+  <div>
     <img src="https://www.hup.harvard.edu/img/feeds/jackets/9780674013476.png">
   </div>
   <div>

@@ -312,4 +312,7 @@ hr.solid {
 }
 
 .imageflex { display: flex; }
-.imageflexcontent { margin-left: 5px; margin-top: 0; }
+.imageflex > div { 
+  margin-left: 5px; 
+  margin-top: 0; 
+}

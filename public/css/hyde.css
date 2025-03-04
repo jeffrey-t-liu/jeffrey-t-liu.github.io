@@ -39,6 +39,11 @@ html {
     font-size: 12px;
   }
 }
+@media (min-width: 48em) {
+  html {
+    font-size: 12px;
+  }
+}
 
 
 /*
@@ -158,10 +163,10 @@ hr.solid {
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 48em) {
   .content {
     margin-left: 24rem;
-    margin-right: 4rem;
+    margin-right: 2rem;
   }
 }
 

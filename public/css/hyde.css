@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 1rem 0.6rem; /* top, left */
   color: rgba(255,255,255,.5);
-  background-color: #1a1b28;
+  background-color: #050308;
 }
 @media (min-width: 60em) {
   .sidebar {

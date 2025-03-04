@@ -25,13 +25,14 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
     <img src="https://www.versobooks.com/cdn/shop/files/getimage_f45d7643-b047-43ee-b1e9-ec7ec7f9f791.jpg?v=1740807295&width=584">
   </div>
   <div>
-    <p class="imageflexcontent">
+    <h6>
       Climate Leviathan: A Political Theory of Our Planetary Future
-      <br/>
-      by Geoff Mann and Joel Wainwright
+    </h6>
+    <small>
+      by <em>Geoff Mann</em> and <em>Joel Wainwright</em>
       <br/>
       This book explores how climate change could reshape global politics and power structures. It argues that the climate crisis will likely lead to the rise of a new global sovereignty — a kind of authoritarian world government (the "Climate Leviathan") — to enforce carbon regulations and manage the planetary emergency.
-    </p>
+    </small>
   </div>
 </div>
 

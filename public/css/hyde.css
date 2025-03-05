@@ -287,9 +287,8 @@ hr.solid {
   max-width: 8rem;
 }
 
-a.parent{
+.parent{
     position: relative;
-    width: 100%;
 }
 
 a.footnote {

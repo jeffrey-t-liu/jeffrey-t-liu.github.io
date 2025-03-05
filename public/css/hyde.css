@@ -277,6 +277,16 @@ hr.solid {
   color: #8f5536;
 }
 
+.imageflex { display: flex; }
+.imageflex > div { 
+  margin-left: 10px; 
+  margin-top: 5px; 
+}
+.imageflex .imgsize {
+  min-width: 8rem;
+  max-width: 8rem;
+}
+
 a.footnote {
    text-decoration:none;
    color: #f5f573;

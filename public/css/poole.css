@@ -52,14 +52,14 @@ body {
 html {
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
-  line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
     font-size: 20px;
   }
 }
-/*black: #050308*/
+/*black: #050308
+line-height: 1.5;*/
 
 body {
   color: #fff;

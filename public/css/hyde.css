@@ -51,13 +51,14 @@ html {
  *
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
+
+ background-color: #050308;
  */
 
 .sidebar {
   text-align: center;
   padding: 1rem 0.6rem; /* top, left */
   color: rgba(255,255,255,.5);
-  background-color: #050308;
 }
 @media (min-width: 60em) {
   .sidebar {
@@ -295,8 +296,8 @@ a.footnote {
    text-decoration:none;
    color: #f5f573;
    background-color: none;
-   padding-left: 2px;
-   padding-right: 2px;
+   padding-left: 1px;
+   padding-right: 0px;
    margin-right: 0px;
    -webkit-transition: all 2s ease;
    -moz-transition: all 2s ease;

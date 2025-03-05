@@ -42,7 +42,7 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
   </div>
   <div>
     <h6>
-      Politics of Nature: How to Bring the Sciences into Democracy
+      [Politics of Nature: How to Bring the Sciences into Democracy](https://doctoradohumanidades.wordpress.com/wp-content/uploads/2015/04/latour-politics-of-nature.pdf)
     </h6>
     <small>
       by <em>Bruno Latour</em> (2004)

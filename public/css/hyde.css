@@ -298,10 +298,10 @@ a.footnote span {
    top: 20px;
    margin-left: 0px;
    margin-right: 18px;
-   padding:14px 20px;
+   padding: 14px 20px;
    border-radius:4px; 
    max-width: 22rem;
-   border:1px solid #DCA;
+   border:1px solid #FEF6BB;
    background-color: #FEF6BB;
    color: #050308;
    -webkit-transition: all 2s ease;
@@ -313,8 +313,8 @@ a.footnote span {
 a.footnote:hover span {
    z-index: 9;
    opacity: 1;
-   -webkit-transition: all 2s ease;
-   -moz-transition: all 2s ease;
-   -o-transition: all 2s ease;
-   transition: all 2s ease;
+   -webkit-transition: all 5s ease;
+   -moz-transition: all 5s ease;
+   -o-transition: all 5s ease;
+   transition: all 5s ease;
 }

@@ -312,12 +312,12 @@ a.footnote span {
    top: 20px;
    margin-left: 0px;
    margin-right: 18px;
-   padding: 14px 20px;
+   padding: 10px 22px;
    border-radius:4px; 
    max-width: 20rem;
-   border:1px solid #FEF6BB;
-   background-color: #FEF6BB;
-   color: #050308;
+   border:1px solid #fff;
+   background-color: #050308;
+   color: #fff;
    font-size: 0.75rem; 
    -webkit-transition: all 5s ease;
    -moz-transition: all 5s ease;

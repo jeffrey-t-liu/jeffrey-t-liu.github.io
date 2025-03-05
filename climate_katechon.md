@@ -29,7 +29,7 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
       Facing Gaia: Eight Lectures on the New Climatic Regime
     </h6>
     <small>
-      by <em>Bruno Latour</em>
+      by <em>Bruno Latour</em> (2017)
       <br/>
       This book is based on a series of lectures where Latour engages with the figure of Gaia — drawn from the Gaia hypothesis by James Lovelock — which proposes that the Earth is a self-regulating, living system. However, Latour strips Gaia of any mystical or harmonious connotations, instead portraying it as a volatile, unpredictable force that defies human control.
     </small>
@@ -45,7 +45,7 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
       Politics of Nature: How to Bring the Sciences into Democracy
     </h6>
     <small>
-      by <em>Bruno Latour</em>
+      by <em>Bruno Latour</em> (2004)
       <br/>
       In this book, Latour proposes a more inclusive, participatory model of democracy where scientific knowledge is not seen as objective and separate from society, but rather as something co-produced through collective deliberation. He suggests replacing the old dualism of nature vs. society with a new political system that integrates human and non-human actors (like animals, ecosystems, and technologies) into decision-making processes.
     </small>
@@ -61,7 +61,7 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
       Climate Leviathan: A Political Theory of Our Planetary Future
     </h6>
     <small>
-      by <em>Geoff Mann</em> and <em>Joel Wainwright</em>
+      by <em>Geoff Mann</em> and <em>Joel Wainwright</em> (2020)
       <br/>
       This book explores how climate change could reshape global politics and power structures. It argues that the climate crisis will likely lead to the rise of a new global sovereignty — a kind of authoritarian world government (the "Climate Leviathan") — to enforce carbon regulations and manage the planetary emergency.
     </small>

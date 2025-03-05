@@ -58,10 +58,11 @@ html {
     font-size: 20px;
   }
 }
+/*black: #050308*/
 
 body {
   color: #fff;
-  background-color: #050308;
+  background-color: #a31f7e;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }

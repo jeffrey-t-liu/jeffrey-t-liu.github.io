@@ -115,7 +115,7 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  color: #707070;
+  color: #f5f573;
   text-decoration: none;
 }
 .sidebar-nav-item.active {

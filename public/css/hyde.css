@@ -78,7 +78,8 @@ html {
 }
 
 .text-colour-change {
-  color: #050308;
+  -webkit-background-clip: text;
+          background-clip: text;
   background: inherit;
   background-clip: text;
   color: transparent;

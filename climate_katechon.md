@@ -3,9 +3,6 @@ layout: page_schmitt
 title: >- 
   Climate Katechon: A Reconceptualisation of Carl Schmitt in Climate Politics
 ---
-<div class="schmitt">
-      <h1>schmitt</h1>
-</div>
 
 <hr class="solid">
 

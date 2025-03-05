@@ -75,12 +75,9 @@ html {
 .sidebar a {
   color: #fff;
   text-decoration: none;
-  z-index: 2;
-  mix-blend-mode: difference;
 }
 
 .text-colour-change {
-  text-transform: uppercase;
   color: #050308;
   z-index: 2;
   mix-blend-mode: difference;

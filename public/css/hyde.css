@@ -78,10 +78,11 @@ html {
 }
 
 .text-colour-change {
-  -webkit-background-clip: text;
-          background-clip: text;
+  z-index: 2;
   background: inherit;
   background-clip: text;
+  -webkit-background-clip: text;
+          background-clip: text;
   color: transparent;
   filter: invert(1) grayscale(1) contrast(9);
 }

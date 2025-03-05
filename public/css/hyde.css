@@ -78,8 +78,8 @@ html {
 }
 
 .text-colour-change {
-  mix-blend-mode: difference
   color: white;
+  mix-blend-mode: difference;
 }
 
 /* About section */

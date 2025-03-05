@@ -34,7 +34,7 @@
 html {
   font-family: 'Montserrat', sans-serif;
 }
-@media (min-width: 48em) {
+@media (min-width: 32em) {
   html {
     font-size: 12px;
   }
@@ -347,7 +347,7 @@ background-size: cover;
 
   /* Full height */
   height: 40rem; 
-  width: 100%;
+  width: 80rem;
 
   /* Center and scale the image nicely */
   background-position: center;

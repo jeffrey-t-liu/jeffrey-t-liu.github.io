@@ -287,6 +287,11 @@ hr.solid {
   max-width: 8rem;
 }
 
+a.parent{
+    position: relative;
+    width: 100%;
+}
+
 a.footnote {
    text-decoration:none;
    color: #f5f573;

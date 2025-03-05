@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_schmitt
 title: >- 
   Climate Katechon: A Reconceptualisation of Carl Schmitt in Climate Politics
 ---

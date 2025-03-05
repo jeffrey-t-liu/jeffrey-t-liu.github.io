@@ -338,6 +338,7 @@ a.footnote:hover span {
 /*  background-size:cover;
 min-width:104rem;
 height:50vh;
+background-size: cover;
 */
 
 .schmitt {
@@ -346,11 +347,11 @@ height:50vh;
 
   /* Full height */
   height: 100%; 
+  width: 100%;
 
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .header{

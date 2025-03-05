@@ -356,6 +356,22 @@ background-size: cover;
   background-size: cover;
 }
 
+.profiling {
+  /* The image used */
+  background-image:url(https://v.ftcdn.net/01/28/68/96/700_F_128689633_FBWUne2YZe4vZ0HkAkRGuJdnbHao702D_ST.mp4);
+  mask-image: linear-gradient(rgba(0, 0, 0, 1) 80%, transparent);
+  
+  /* Full height */
+  height: 100%; 
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 .header{
   position:sticky;
   top:50%;

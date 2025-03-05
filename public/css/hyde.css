@@ -277,47 +277,41 @@ hr.solid {
   color: #8f5536;
 }
 
-.popup {
-  margin: 70px auto;
-  padding: 20px;
-  background: #fff;
-  border-radius: 5px;
-  width: 30%;
-  position: relative;
-  transition: all 5s ease-in-out;
+a.footnote {
+   text-decoration:none;
+   background-color: #FEF6BB;
+   padding-left: 2px;
+   padding-right: 2px;
+   margin-right: 2px;
+   -webkit-transition: all 2s ease;
+   -moz-transition: all 2s ease;
+   -o-transition: all 2s ease;
+   transition: all 2s ease;
+} 
+
+a.footnote span {
+   z-index: -1;
+   opacity: 0;
+   position: fixed;
+   left: 15px; 
+   bottom: 20px;
+   margin-left: 0px;
+   margin-right: 18px;
+   padding:14px 20px;
+   border-radius:4px; box-shadow: 5px 5px 8px #CCC;
+   border:1px solid #DCA;
+   background-color: #FEF6BB;
+   -webkit-transition: all 2s ease;
+   -moz-transition: all 2s ease;
+   -o-transition: all 2s ease;
+   transition: all 2s ease;
 }
 
-
-/* POPUP */
-.popup h2 {
-  margin-top: 0;
-  color: #333;
-  font-family: Tahoma, Arial, sans-serif;
-}
-.popup .close {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  transition: all 200ms;
-  font-size: 30px;
-  font-weight: bold;
-  text-decoration: none;
-  color: #333;
-}
-.popup .close:hover {
-  color: #06D85F;
-}
-.popup .content {
-  max-height: 30%;
-  overflow: auto;
-}
-
-.imageflex { display: flex; }
-.imageflex > div { 
-  margin-left: 10px; 
-  margin-top: 5px; 
-}
-.imageflex .imgsize {
-  min-width: 8rem;
-  max-width: 8rem;
+a.footnote:hover span {
+   z-index: 9;
+   opacity: 1;
+   -webkit-transition: all 2s ease;
+   -moz-transition: all 2s ease;
+   -o-transition: all 2s ease;
+   transition: all 2s ease;
 }

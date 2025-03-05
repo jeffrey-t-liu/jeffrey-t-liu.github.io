@@ -26,7 +26,9 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
   </div>
   <div>
     <h6>
-      [Facing Gaia: Eight Lectures on the New Climatic Regime](https://grattoncourses.wordpress.com/wp-content/uploads/2019/06/bruno-latour-facing-gaia-eight-lectures-on-the-new-climatic-regime.pdf)
+      <a href="https://grattoncourses.wordpress.com/wp-content/uploads/2019/06/bruno-latour-facing-gaia-eight-lectures-on-the-new-climatic-regime.pdf">
+        Facing Gaia: Eight Lectures on the New Climatic Regime
+      </a>
     </h6>
     <small>
       by <em>Bruno Latour</em> (2017)
@@ -42,7 +44,9 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
   </div>
   <div>
     <h6>
-      [Politics of Nature: How to Bring the Sciences into Democracy](https://doctoradohumanidades.wordpress.com/wp-content/uploads/2015/04/latour-politics-of-nature.pdf)
+      <a href="https://doctoradohumanidades.wordpress.com/wp-content/uploads/2015/04/latour-politics-of-nature.pdf">
+        Politics of Nature: How to Bring the Sciences into Democracy
+      </a>
     </h6>
     <small>
       by <em>Bruno Latour</em> (2004)

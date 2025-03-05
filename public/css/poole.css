@@ -452,3 +452,10 @@ header{
       -ms-text-size-adjust: 100%;
 }
 
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 0.75rem;
+}
+

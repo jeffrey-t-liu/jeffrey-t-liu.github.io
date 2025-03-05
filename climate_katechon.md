@@ -26,7 +26,7 @@ concept of the Climate Leviathan, Climate Katechon emerges through the incorpora
   </div>
   <div>
     <h6>
-      Facing Gaia: Eight Lectures on the New Climatic Regime
+      [Facing Gaia: Eight Lectures on the New Climatic Regime](https://grattoncourses.wordpress.com/wp-content/uploads/2019/06/bruno-latour-facing-gaia-eight-lectures-on-the-new-climatic-regime.pdf)
     </h6>
     <small>
       by <em>Bruno Latour</em> (2017)

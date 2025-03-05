@@ -78,13 +78,8 @@ html {
 }
 
 .text-colour-change {
-  z-index: 2;
-  background: inherit;
-  background-clip: text;
-  -webkit-background-clip: text;
-          background-clip: text;
-  color: transparent;
-  filter: invert(1) grayscale(1) contrast(9);
+  mix-blend-mode: difference
+  color: white;
 }
 
 /* About section */

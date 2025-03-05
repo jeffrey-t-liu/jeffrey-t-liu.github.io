@@ -79,8 +79,10 @@ html {
 
 .text-colour-change {
   color: #050308;
-  z-index: 2;
-  mix-blend-mode: difference;
+  background: inherit;
+  background-clip: text;
+  color: transparent;
+  filter: invert(1) grayscale(1) contrast(9);
 }
 
 /* About section */

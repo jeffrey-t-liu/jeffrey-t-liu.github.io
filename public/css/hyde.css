@@ -78,7 +78,8 @@ html {
 }
 
 .text-colour-change {
-  color: #050308;
+  color: white;
+  mix-blend-mode: difference;
 }
 
 /* About section */

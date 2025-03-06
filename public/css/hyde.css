@@ -79,7 +79,7 @@ html {
 
 .text-colour-change {
   color: white;
-  mix-blend-mode: difference;
+  mix-blend-mode: overlay;
 }
 
 /* About section */

@@ -79,7 +79,6 @@ html {
 
 .text-colour-change {
   color: lime;
-  mix-blend-mode: exclusion;
 }
 
 /* About section */
@@ -128,9 +127,6 @@ a.sidebar-nav-item:focus {
   font-weight: normal;
 }
 
-.sidebar-nav-item.text-colour-change {
-  color: #32CD32;
-}
 
 hr.solid { 
   border: none;

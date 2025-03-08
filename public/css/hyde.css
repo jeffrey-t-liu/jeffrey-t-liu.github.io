@@ -79,12 +79,12 @@ html {
 
 .text-colour-change {
   color: lime;
-  mix-color-mode: difference;
+  mix-blend-mode: difference;
 }
 
 .black {
   color: lime;
-  mix-color-mode: difference;
+  mix-blend-mode: difference;
 }
 
 /* About section, h1 is headings of section*/

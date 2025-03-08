@@ -69,10 +69,12 @@ html {
     width: 22rem;
     text-align: left;
     border-radius: 0.5rem; 
-    border:1px solid #050308;
+    border:1px solid rgba(5, 3, 8, 0.5);
     background-color: rgba(5, 3, 8, 0.5);
-    height: 18rem;
+    height: 17rem;
     margin: 0.75rem;
+    padding-left:10px;
+    padding-right:10px;
   }
 }
 

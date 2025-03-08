@@ -1,20 +1,16 @@
 ---
 layout: page_profiling
 title: >- 
-  What's wrong with racial profiling?
+  Single Variable Profiling and Racial Profiling
 ---
 
 <hr class="solid">
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Mattis convallis scelerisque finibus proin malesuada tortor non natoque. Lobortis tellus quis ad mattis eu ornare eleifend. Nascetur nibh sed platea cursus integer nostra elementum magna varius. Ullamcorper eros tristique convallis nostra quis magnis facilisi laoreet. Curae venenatis pulvinar feugiat praesent; ut porttitor ornare. Interdum vivamus nostra parturient lacinia potenti penatibus libero.
+This paper explores single variable profiling generally and racial profiling specifically to isolate why the use of race as a variable for profiling is normatively impermissible. I argue that the normative impermissibility of racial profiling does not lie in its instrumental unsuitability as a predictive variable. This is evidenced by the permissibility of the use of other single-variables for profiling. Rather, I argue that the normative impermissibility of racial profiling lies with the painful history of the misuse of race (specifically racial differences) as a signifier for human value throughout history.
 
-Molestie magnis sollicitudin pretium diam torquent molestie lacus ante. Consequat penatibus orci erat felis ante curabitur venenatis primis. Vel dignissim posuere a mollis fermentum nascetur. Vulputate quis a pulvinar viverra molestie quisque dictum. Finibus senectus mattis vulputate purus consequat in. Laoreet eget venenatis consequat nunc arcu nec habitasse. Venenatis rutrum mauris ipsum euismod dolor malesuada maximus.
+Building off literature about pragmatic and moral encroachment, I demonstrate that modern objections to racial profiling stem from concerns about the stakes involved with the practice, particularly if profiling ends up targeting innocent individuals. I then proceed to examine the widespread acceptance of other forms of single-variable profiling in society and conclude that the impermissibility of racial profiling is not to do with the use of single-variable profiling but rather something to do with race specifically.
 
-Odio inceptos lacinia auctor tempus; habitant senectus porta. Odio eros semper augue; lectus enim morbi. Enim per mattis nisi; a elit lobortis per. Lobortis habitasse varius interdum nostra suscipit faucibus parturient. Ultrices quam penatibus varius mauris ante at vitae aenean. Himenaeos venenatis interdum rutrum egestas dictumst orci sed tellus. Finibus odio purus faucibus egestas sit faucibus.
-
-Ad dis sociosqu vestibulum quis ultricies neque lacinia. Luctus primis efficitur ullamcorper elit vitae mauris vel class erat. Quisque suspendisse blandit eu porttitor primis? Hac aenean dapibus interdum lobortis iaculis urna. Euismod risus ac pretium arcu nullam lobortis ad. Vitae primis faucibus odio rutrum sodales consectetur class. Elit venenatis sociosqu gravida imperdiet dignissim.
-
-Purus eu arcu fringilla facilisi nam. Erat ad fames molestie elit litora tempus dui faucibus. Vivamus quam massa fringilla vivamus; habitant diam parturient. Id convallis ipsum per tellus justo nibh. Primis eu ultricies facilisi torquent eros facilisi aenean maecenas. Habitasse senectus maecenas per id hendrerit. Tempor sollicitudin dapibus porta a sed cubilia finibus ultricies eros. Tristique netus fames porttitor elit tristique nulla ullamcorper nullam et.
+I pay particular attention to how race becomes a signifier for bigoted attitudes over time and highlight the troubles disentangling those attitudes from the use of race as a variable in profiling. I show that the existence of these stakes relates to historically contingent circumstances and not with race as a variable a priori. I conclude that whilst racial profiling may be permissible and effective at a theoretical level, our commitment to contextualise historical injustices perpetrated on the basis of race prohibit the use of racial profiling as a governing strategy and that a state committed to addressing those injustices cannot use race as a variable.
 
 <h2>
   Further reading:

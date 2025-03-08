@@ -366,10 +366,12 @@ SCHMITT IMAGE LINK:   background-image:url(https://phantom-elmundo.unidadeditori
   width: 100%;
 
   /* Center and scale the image nicely */
+  background-color: linear-gradient(0.25turn, black, white);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   object-position: bottom;
+  background-blend-mode: multiply;
 }
 
 .profiling {

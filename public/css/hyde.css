@@ -77,12 +77,14 @@ html {
   text-decoration: none;
 }
 
-.text-colour-change a {
+.text-colour-change {
   color: lime;
+  mix-color-mode: difference;
 }
 
 .black {
-  color: #050308;
+  color: lime;
+  mix-color-mode: difference;
 }
 
 /* About section, h1 is headings of section*/

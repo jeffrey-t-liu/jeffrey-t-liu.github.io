@@ -68,6 +68,11 @@ html {
     bottom: 0;
     width: 22rem;
     text-align: left;
+    padding: 10px 22px;
+    border-radius:4px; 
+    max-width: 20rem;
+    border:1px solid #fff;
+    background-color: #050308;
   }
 }
 
@@ -75,16 +80,6 @@ html {
 .sidebar a {
   color: #fff;
   text-decoration: none;
-}
-
-.text-colour-change {
-  color: lime;
-  mix-blend-mode: difference;
-}
-
-.black {
-  color: white;
-  mix-blend-mode: difference;
 }
 
 /* About section, h1 is headings of section*/
@@ -340,10 +335,10 @@ a.footnote span {
 a.footnote:hover span {
    z-index: 9;
    opacity: 1;
-   -webkit-transition: all 2s ease;
-   -moz-transition: all 2s ease;
-   -o-transition: all 2s ease;
-   transition: all 2s ease;
+   -webkit-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+   -o-transition: all 1s ease;
+   transition: all 1s ease;
 }
 
 /*  background-size:cover;

@@ -68,11 +68,11 @@ html {
     bottom: 0;
     width: 22rem;
     text-align: left;
-    border-radius: 0.125rem; 
+    border-radius: 0.5rem; 
     border:1px solid #050308;
     background-color: #050308;
     height: 18rem;
-    margin: 2rem;
+    margin: 0.75rem;
   }
 }
 

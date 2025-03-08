@@ -4,6 +4,9 @@
   {% include head.html %}
   <body>
     <header>
+      <div>
+        {% include sidebar_profiling.html %}
+      </div>
       <video width="100%" height="100%" autoplay muted loop id="myVideo">
         <source src="video.mp4" type="video/mp4">
           Your browser does not support HTML5 video.
@@ -11,9 +14,7 @@
       
     </header>
     <div class="content container">
-      <div>
-        {% include sidebar_profiling.html %}
-      </div>
+      
       <div class="page">
         <h1 class="page-title">{{ page.title }}</h1>
         {{ content }}

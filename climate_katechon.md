@@ -30,7 +30,7 @@ Instead, I propose that the logical conclusion of a faithful interpretation of S
   </div>
   <div>
     <h6>
-      <a href="https://grattoncourses.wordpress.com/wp-content/uploads/2019/06/bruno-latour-facing-gaia-eight-lectures-on-the-new-climatic-regime.pdf">
+      <a href="https://grattoncourses.wordpress.com/wp-content/uploads/2019/06/bruno-latour-facing-gaia-eight-lectures-on-the-new-climatic-regime.pdf" target="_blank">
         Facing Gaia: Eight Lectures on the New Climatic Regime
       </a>
     </h6>
@@ -48,7 +48,7 @@ Instead, I propose that the logical conclusion of a faithful interpretation of S
   </div>
   <div>
     <h6>
-      <a href="https://doctoradohumanidades.wordpress.com/wp-content/uploads/2015/04/latour-politics-of-nature.pdf">
+      <a href="https://doctoradohumanidades.wordpress.com/wp-content/uploads/2015/04/latour-politics-of-nature.pdf" target="_blank">
         Politics of Nature: How to Bring the Sciences into Democracy
       </a>
     </h6>

@@ -81,6 +81,10 @@ html {
   color: lime;
 }
 
+.black {
+  color: #050308;
+}
+
 /* About section, h1 is headings of section*/
 .sidebar-about h1 {
   color: #fff;
@@ -363,6 +367,7 @@ SCHMITT IMAGE LINK:   background-image:url(https://phantom-elmundo.unidadeditori
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  object-position: bottom;
 }
 
 .profiling {

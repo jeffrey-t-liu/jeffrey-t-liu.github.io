@@ -457,7 +457,7 @@ header{
 .bottom-left {
   position: absolute;
   top: 16px;
-  right: 8px;
+  right: 12px;
   font-size: 0.75rem;
 }
 

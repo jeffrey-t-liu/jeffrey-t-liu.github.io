@@ -62,7 +62,7 @@ Instead, I propose that the logical conclusion of a faithful interpretation of S
 
 <div class="imageflex">
   <div class="imgsize">
-    <img src="https://www.versobooks.com/cdn/shop/files/getimage_f45d7643-b047-43ee-b1e9-ec7ec7f9f791.jpg?v=1740807295&width=584">
+    <img src="https://m.media-amazon.com/images/I/41xxFtZyDjL._SY445_SX342_.jpg">
   </div>
   <div>
     <h6>

@@ -18,13 +18,18 @@ I pay particular attention to how race becomes a signifier for bigoted attitudes
 
 <hr class="solid">
 
-<div class="imageflex">
-    <h6>
-      <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.2004.00009.x">
-        Racial Profiling
-      </a>
-    </h6>
-    <small>
-      by <em>Mathias Risse, Richard Zeckhauser</em> (2004)
-    </small>
-</div>
+<h6>
+  1. <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.2004.00009.x">
+    Racial Profiling
+  </a>
+  
+</h6>
+<small>
+  by <em>Mathias Risse, Richard Zeckhauser</em> (2004)
+</small>
+
+</br>
+
+<h6>
+  1. Risse, Mathias and Zeckhauser, Richard. 2004. <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.2004.00009.x">“Racial Profiling.”</a> Philosophy & Public Affairs 32 (2): 131–70.
+</h6>

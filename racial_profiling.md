@@ -17,19 +17,13 @@ I pay particular attention to how race becomes a signifier for bigoted attitudes
 </h2>
 
 <hr class="solid">
-
 <h6>
-  1. <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.2004.00009.x">
-    Racial Profiling
-  </a>
-  
+  1. Risse, Mathias and Zeckhauser, Richard. 2004. <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.2004.00009.x">“Racial Profiling.”</a> <em>Philosophy & Public Affairs</em> 32 (2): 131–70.
 </h6>
-<small>
-  by <em>Mathias Risse, Richard Zeckhauser</em> (2004)
-</small>
-
-</br>
-
 <h6>
-  1. Risse, Mathias and Zeckhauser, Richard. 2004. <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.2004.00009.x">“Racial Profiling.”</a> Philosophy & Public Affairs 32 (2): 131–70.
+  2. Lippert-Rasmussen, Kasper. 2007. <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9760.2007.00285.x">“Nothing Personal: On Statistical Discrimination.”</a> <em>Journal of Political Philosophy</em> 15 (4): 385–403.
 </h6>
+<h6>
+  3. Bolinger, Renée Jorgensen. 2018. <a href="https://link.springer.com/article/10.1007/s11229-018-1809-5">“The Rational Impermissibility of Accepting (Some) Racial Generalizations.”</a> <em>Synthese</em> 197 (6): 2415–31.
+</h6>
+

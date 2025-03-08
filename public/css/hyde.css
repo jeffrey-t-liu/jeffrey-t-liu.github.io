@@ -63,14 +63,14 @@ html {
 @media (min-width: 60em) {
   .sidebar {
     position: fixed;
-    top: 0;
+    top: 0.5rem;
     left: 0;
     bottom: 0;
     width: 22rem;
     text-align: left;
     border-radius: 0.5rem; 
     border:1px solid #050308;
-    background-color: #050308;
+    background-color: rgba(5, 3, 8, 0.5);
     height: 18rem;
     margin: 0.75rem;
     padding: 0px 0px;

@@ -73,6 +73,8 @@ html {
     background-color: #050308;
     height: 18rem;
     margin: 0.75rem;
+    padding: 0px 0px;
+    opacity: 0.5;
   }
 }
 

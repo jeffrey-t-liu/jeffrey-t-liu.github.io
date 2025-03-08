@@ -8,11 +8,14 @@
         <source src="video.mp4" type="video/mp4">
           Your browser does not support HTML5 video.
       </video>
+      <div>
+          {% include sidebar_profiling.html %}
+      </div>
       
     </header>
     <div class="content container">
       <div>
-        {% include sidebar_profiling.html %}
+        {% include sidebar.html %}
       </div>
       <div class="page">
         <h1 class="page-title">{{ page.title }}</h1>

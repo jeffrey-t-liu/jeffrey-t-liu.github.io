@@ -71,9 +71,9 @@ html {
   }
 }
 
-/* Sidebar links */
+/* Sidebar links without headers*/
 .sidebar a {
-  color: lime;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -81,9 +81,9 @@ html {
   color: lime;
 }
 
-/* About section */
+/* About section, h1 is headings of section*/
 .sidebar-about h1 {
-  color: lime;
+  color: #fff;
   margin-top: 0;
   margin-bottom: 0.5rem;
   font-family: 'Montserrat', sans-serif;

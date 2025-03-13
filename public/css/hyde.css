@@ -396,6 +396,8 @@ SCHMITT IMAGE LINK:   background-image:url(https://phantom-elmundo.unidadeditori
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  object-position: bottom;
+
 }
 
 

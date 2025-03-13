@@ -387,8 +387,9 @@ SCHMITT IMAGE LINK:   background-image:url(https://phantom-elmundo.unidadeditori
   /* The image used */
   background-image:url("../../Academia Tocqueville .jpg");
   mask-image:
-    linear-gradient(to right, rgba(0, 0, 0, 1), transparent 90%), 
-    linear-gradient(transparent 80%, rgba(0, 0, 0, 1));
+    linear-gradient(to right, rgba(0, 0, 0, 1), transparent), 
+    linear-gradient(rgba(0, 0, 0, 1) 60%, transparent);
+
   
   /* Full height */
   height: 120%; 

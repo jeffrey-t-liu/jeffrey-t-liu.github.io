@@ -386,7 +386,7 @@ SCHMITT IMAGE LINK:   background-image:url(https://phantom-elmundo.unidadeditori
 .about_background {
   /* The image used */
   background-image:url("../../Academia Tocqueville .jpg");
-  mask-image: linear-gradient(rgba(0, 0, 0, 1) 80%, transparent);
+  mask-image: linear-gradient(0.25turn, rgba(0, 0, 0, 1) 80%, transparent);
   
   /* Full height */
   height: 100%; 
@@ -396,7 +396,7 @@ SCHMITT IMAGE LINK:   background-image:url(https://phantom-elmundo.unidadeditori
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  object-position: bottom;
+  object-position: right;
 }
 
 

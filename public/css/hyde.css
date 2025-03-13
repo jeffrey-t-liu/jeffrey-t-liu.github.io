@@ -393,7 +393,7 @@ SCHMITT IMAGE LINK:   background-image:url(https://phantom-elmundo.unidadeditori
   width: 100%;
 
   /* Center and scale the image nicely */
-  background-position: right -1000px;
+  background-position: right -10px;
   background-repeat: no-repeat;
   background-size: cover;
   object-position: right;

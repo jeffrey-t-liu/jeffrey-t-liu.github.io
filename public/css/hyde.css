@@ -34,7 +34,7 @@
 html {
   font-family: 'Montserrat', sans-serif;
 }
-@media (min-width: 32em) {
+@media (max-width: 59em) {
   html {
     font-size: 12px;
   }
@@ -165,7 +165,7 @@ hr.solid {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 40em) {
+@media (min-width: 60em) {
   .content {
     max-width: 48rem;
     margin-left: 23rem;
@@ -173,10 +173,10 @@ hr.solid {
   }
 }
 
-@media (min-width: 40em) {
+@media (max-width: 59em) {
   .content {
-    margin-left: 23rem;
-    margin-right: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
   }
 }
 

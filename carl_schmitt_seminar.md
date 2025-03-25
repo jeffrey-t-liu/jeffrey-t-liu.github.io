@@ -24,3 +24,24 @@ title: >-
 <h6>
   Martinez Mitchell, Ryan. 2020. <a href="https://elibrary.law.psu.edu/jlia/vol8/iss1/8" target="_blank">“Chinese Receptions of Carl Schmitt since 1929.”</a> <em>Penn State Journal of Law & International Affairs.</em> 8: 181.
 </h6>
+<h6>
+  Böckenförde Ernst-Wolfgang, Künkler Mirjam, and Tine Stein. 2017. <em>Constitutional and Political Theory.</em> Oxford University Press. pp. 10–18; 70–85.
+</h6>
+<h6>
+  Vermeule, Adrian. 2009. <a href="https://harvardlawreview.org/print/vol-122/our-schmittian-administrative-law/" target="_blank">“Our Schmittian Administrative Law.”</a> <em>Harvard Law Review</em> 122 (4): 1095–1150.
+</h6>
+<h6>
+  Specter, Matthew G., <a href="https://doi.org/10.1093/oxfordhb/9780199916931.013.011" target="_blank">“What’s “Left” in Schmitt? From Aversion to Appropriation in Contemporary Political Theory”</a>, in Jens Meierhenrich, and Oliver Simons (eds), <em>The Oxford Handbook of Carl Schmitt</em> (2017; online edn, Oxford Academic, 16 Dec. 2013).
+</h6>
+<h6>
+  Latour, Bruno. 2004. <em>Politics of Nature: How to Bring the Sciences into Democracy.</em> Cambridge, MA: Harvard University Press. pp. 143–150.
+</h6>
+<h6>
+  Latour, Bruno. 2017. <em>Facing Gaia: Eight Lectures on the New Climate Regime.</em> Polity: United Kingdom. pp. 220–254.
+</h6>
+<h6>
+  Agamben, Giorgio. 2005. <em>State of Exception.</em> Chicago: University of Chicago Press. pp. 1–31.
+</h6>
+<h6>
+  Bratton, Benjamin H. 2016. <em>The Stack: On Software and Sovereignty.</em> Cambridge, Massachusetts: The Mit Press. pp. 19–40.
+</h6>

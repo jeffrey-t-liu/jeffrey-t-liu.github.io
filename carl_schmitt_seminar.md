@@ -32,7 +32,7 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
   Martinez Mitchell, Ryan. 2020. <a href="https://elibrary.law.psu.edu/jlia/vol8/iss1/8" target="_blank">“Chinese Receptions of Carl Schmitt since 1929.”</a> <em>Penn State Journal of Law & International Affairs.</em> 8: 181.
 </h6>
 <h6>
-  Böckenförde Ernst-Wolfgang, Künkler Mirjam, and Tine Stein. 2017. <em>Constitutional and Political Theory.</em> Oxford University Press. pp. 10–18; 70–85.
+  Böckenförde, Ernst-Wolfgang, Künkler Mirjam, and Tine Stein. 2017. <em>Constitutional and Political Theory.</em> Oxford University Press. pp. 10–18; 70–85.
 </h6>
 <h6>
   Vermeule, Adrian. 2009. <a href="https://harvardlawreview.org/print/vol-122/our-schmittian-administrative-law/" target="_blank">“Our Schmittian Administrative Law.”</a> <em>Harvard Law Review</em> 122 (4): 1095–1150.

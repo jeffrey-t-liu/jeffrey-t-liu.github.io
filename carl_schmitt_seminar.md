@@ -47,8 +47,8 @@ title: >-
 </h6>
 
 <h3>
-  Week 2: Political Theology
+  <b>Week 2: Political Theology</b>
 </h3>
 <h6>
-  Schmitt, Carl. (1922) 2005. <em>Political Theology: Four Chapters on the Concept of Sovereignty.</em> Translated by George Schwab. Chicago: University of Chicago Press.
+  Schmitt, Carl. [1922] 2005. <em>Political Theology: Four Chapters on the Concept of Sovereignty.</em> Translated by George Schwab. Chicago: University of Chicago Press.
 </h6>

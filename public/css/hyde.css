@@ -301,6 +301,7 @@ p.parent{
     position: relative;
 }
 
+@media (min-width: 60em) {
 a.footnote {
    text-decoration:none;
    color: #f5f573;
@@ -342,6 +343,7 @@ a.footnote:hover span {
    -moz-transition: all 1s ease;
    -o-transition: all 1s ease;
    transition: all 1s ease;
+}
 }
 
 /*  background-size:cover;

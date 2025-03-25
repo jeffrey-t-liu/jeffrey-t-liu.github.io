@@ -173,9 +173,9 @@ hr.solid {
   }
 }
 
-@media (max-width: 59em) {
+@media (max-width: 60em) {
   .content {
-    max-width: 48rem;
+    max-width: 58rem;
     margin-left: 1rem;
     margin-right: 1rem;
   }

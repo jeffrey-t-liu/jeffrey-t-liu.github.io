@@ -45,3 +45,10 @@ title: >-
 <h6>
   Bratton, Benjamin H. 2016. <em>The Stack: On Software and Sovereignty.</em> Cambridge, Massachusetts: The Mit Press. pp. 19–40.
 </h6>
+
+<h3>
+  Week 2: Political Theology
+</h3>
+<h6>
+  Schmitt, Carl. (1922) 2005. <em>Political Theology: Four Chapters on the Concept of Sovereignty.</em> Translated by George Schwab. Chicago: University of Chicago Press.
+</h6>

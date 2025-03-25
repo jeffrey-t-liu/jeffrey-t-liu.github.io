@@ -353,6 +353,22 @@ SCHMITT IMAGE LINK:   background-image:url(https://phantom-elmundo.unidadeditori
 
 */
 
+.schmitt_seminar {
+  /* The image used */
+  background-image:url(https://phantom-elmundo.unidadeditorial.es/a6f5058beaa96af2dd908d6daac29410/crop/0x121/1900x1388/resize/990/f/webp/assets/multimedia/imagenes/2023/04/17/16816884730399.jpg);
+  mask-image: linear-gradient(rgba(0, 0, 0, 1) 80%, transparent);
+  
+  /* Full height */
+  height: 100%; 
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-position: bottom;
+}
+
 .schmitt {
   /* The image used */
   background-image:url(https://upload.wikimedia.org/wikipedia/commons/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg);

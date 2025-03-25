@@ -34,7 +34,7 @@
 html {
   font-family: 'Montserrat', sans-serif;
 }
-@media (max-width: 47em) {
+@media (max-width: 48em) {
   html {
     font-size: 12px;
   }

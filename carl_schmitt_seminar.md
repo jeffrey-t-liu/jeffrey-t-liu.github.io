@@ -10,7 +10,7 @@ Trinity 2025, time, room
 
 Description of meeting. All interested parties are welcome; no prior acquaintance with, or affection for, Schmitt necessary.
 
-Unlinked readings will be distributed by email. Please email me to be added to the seminar’s mailing list.
+Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.liu@politics.ox.ac.uk">email me</a> to be added to the seminar’s mailing list.
 
 
 <h3>
@@ -59,3 +59,7 @@ Unlinked readings will be distributed by email. Please email me to be added to t
 <h6>
   Schmitt, Carl. [1922] 2005. <em>Political Theology: Four Chapters on the Concept of Sovereignty.</em> Translated by George Schwab. Chicago: University of Chicago Press.
 </h6>
+
+<h3>
+  <u>Week 3: The Concept of the Political</u>
+</h3>

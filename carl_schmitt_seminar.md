@@ -7,14 +7,11 @@ title: >-
 <hr class="solid">
 
 <h3>
-  <u>Week 1: Introduction</u> 
+  Week 1: Introduction 
 </h3>
 <h6>
   Wolin, Richard. 1992. <a href="https://www.jstor.org/stable/192186" target="_blank">“Carl Schmitt: The Conservative Revolutionary Habitus and the Aesthetics of Horror.”</a> <em>Political Theory</em> 20 (3): 424–47.
 </h6>
-<p>
-  Wolin, Richard. 1992. <a href="https://www.jstor.org/stable/192186" target="_blank">“Carl Schmitt: The Conservative Revolutionary Habitus and the Aesthetics of Horror.”</a> <em>Political Theory</em> 20 (3): 424–47.
-</p>
 <h6>
   Strong, Tracy B. “Carl Schmitt and Thomas Hobbes: Myth and Politics.” Foreword in Schmitt, Carl. <em>The Leviathan in the State Theory of Thomas Hobbes: Meaning and Failure of a Political Symbol.</em> Chicago: Univ. Of Chicago Press, 2008. pp. vii–xxviii.
 </h6>
@@ -50,7 +47,7 @@ title: >-
 </h6>
 
 <h3>
-  <b>Week 2: Political Theology</b>
+  Week 2: Political Theology
 </h3>
 <h6>
   Schmitt, Carl. [1922] 2005. <em>Political Theology: Four Chapters on the Concept of Sovereignty.</em> Translated by George Schwab. Chicago: University of Chicago Press.

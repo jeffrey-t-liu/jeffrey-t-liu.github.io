@@ -6,8 +6,15 @@ title: >-
 
 <hr class="solid">
 
+Trinity 2025, time, room 
+
+Description of meeting. All interested parties are welcome; no prior acquaintance with, or affection for, Schmitt necessary.
+
+Unlinked readings will be distributed by email. Please email me to be added to the seminar’s mailing list.
+
+
 <h3>
-  Week 1: Introduction 
+  <u>Week 1: Introduction</u>
 </h3>
 <h6>
   Wolin, Richard. 1992. <a href="https://www.jstor.org/stable/192186" target="_blank">“Carl Schmitt: The Conservative Revolutionary Habitus and the Aesthetics of Horror.”</a> <em>Political Theory</em> 20 (3): 424–47.
@@ -47,7 +54,7 @@ title: >-
 </h6>
 
 <h3>
-  Week 2: Political Theology
+  <u>Week 2: Political Theology</u>
 </h3>
 <h6>
   Schmitt, Carl. [1922] 2005. <em>Political Theology: Four Chapters on the Concept of Sovereignty.</em> Translated by George Schwab. Chicago: University of Chicago Press.

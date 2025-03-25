@@ -34,12 +34,12 @@
 html {
   font-family: 'Montserrat', sans-serif;
 }
-@media (max-width: 59em) {
+@media (max-width: 47em) {
   html {
     font-size: 12px;
   }
 }
-@media (min-width: 60em) {
+@media (min-width: 48em) {
   html {
     font-size: 16px;
   }
@@ -175,6 +175,7 @@ hr.solid {
 
 @media (max-width: 59em) {
   .content {
+    max-width: 48rem;
     margin-left: 1rem;
     margin-right: 1rem;
   }

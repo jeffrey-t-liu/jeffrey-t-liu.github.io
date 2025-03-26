@@ -57,9 +57,12 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
   <u>Week 2: Political Theology</u>
 </h3>
 <h6>
-  Schmitt, Carl. [1922] 2005. <em>Political Theology: Four Chapters on the Concept of Sovereignty.</em> Translated by George Schwab. Chicago: University of Chicago Press.
+  Schmitt, Carl. [1922] 2005. <em>Political Theology: Four Chapters on the Concept of Sovereignty.</em> Translated by George Schwab. Chicago: University of Chicago Press. pp. 5–66.
 </h6>
 
 <h3>
   <u>Week 3: The Concept of the Political</u>
 </h3>
+<h6>
+  Schmitt, Carl. [1932] 2007. <em>The Concept of the Political.</em> Chicago, Ill. Univ. of Chicago Press. pp. 19–27; 37–53; 58–68.
+</h6>

@@ -301,7 +301,7 @@ p.parent{
     position: relative;
 }
 
-@media (min-width: 60em) {
+@media (min-width: 92em) {
 a.footnote {
    text-decoration:none;
    color: #f5f573;
@@ -343,6 +343,12 @@ a.footnote:hover span {
    -moz-transition: all 1s ease;
    -o-transition: all 1s ease;
    transition: all 1s ease;
+}
+}
+
+@media (max-width:92em) {
+a.footnote {
+  display: none;
 }
 }
 

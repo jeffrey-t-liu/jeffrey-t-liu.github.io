@@ -66,3 +66,6 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 <h6>
   Schmitt, Carl. [1932] 2007. <em>The Concept of the Political.</em> Chicago, Ill. Univ. of Chicago Press. pp. 19–27; 37–53; 58–68.
 </h6>
+<h6>
+  Schmitt, Carl. [1928] 2008. <em>Constitutional Theory.</em> Durham, NC. Duke University Press. pp. 125–139. 
+</h6>

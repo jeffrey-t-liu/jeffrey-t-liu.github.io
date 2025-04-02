@@ -50,7 +50,7 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
   Agamben, Giorgio. 2005. <em>State of Exception.</em> Chicago: University of Chicago Press. pp. 1–31.
 </h6>
 <h6>
-  Bratton, Benjamin H. 2016. <em>The Stack: On Software and Sovereignty.</em> Cambridge, Massachusetts: The Mit Press. pp. 19–40.
+  Bratton, Benjamin H. 2016. <em>The Stack: On Software and Sovereignty.</em> Cambridge, Massachusetts: The MIT Press. pp. 19–40.
 </h6>
 
 <h3>
@@ -68,4 +68,11 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 </h6>
 <h6>
   Schmitt, Carl. [1928] 2008. <em>Constitutional Theory.</em> Durham, NC. Duke University Press. pp. 125–139. 
+</h6>
+
+<h3>
+  <u>Week 4: The Crisis of Parliamentary Democracy</u>
+</h3>
+<h6>
+  Schmitt, Carl. [1923] 1988. <em>The Crisis of Parliamentary Democracy.</em> Translated by Ellen Kennedy. Cambridge, Massachusetts: The MIT Press. pp. 18–21; 1–17. 
 </h6>

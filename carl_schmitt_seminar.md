@@ -61,7 +61,7 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 </h6>
 
 <h3>
-  <u>Week 3: The Concept of the Political</u>
+  <u>Week 3: The Concept of the Political</u> [<a href="https://docs.google.com/document/d/13CwjQgIBC2oKMOZWxDxF4rH5UfWbpf6X3Unr77s6u0g/edit?usp=sharing" target="_blank">handout</a>]
 </h3>
 <h6>
   Schmitt, Carl. [1932] 2007. <em>The Concept of the Political.</em> Chicago, Ill. Univ. of Chicago Press. pp. 19–27; 37–53; 58–68.
@@ -71,7 +71,7 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 </h6>
 
 <h3>
-  <u>Week 4: The Crisis of Parliamentary Democracy</u>
+  <u>Week 4: The Crisis of Parliamentary Democracy</u> [<a href="https://docs.google.com/document/d/19XNqZyHgJSu3pldiYl0h_vwoY_pJHK-xCBeAa5VcLKQ/edit?usp=sharing" target="_blank">handout</a>]
 </h3>
 <h6>
   Schmitt, Carl. [1923] 1988. <em>The Crisis of Parliamentary Democracy.</em> Translated by Ellen Kennedy. Cambridge, Massachusetts: The MIT Press. pp. 18–21; 1–17. 

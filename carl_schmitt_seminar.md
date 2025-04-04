@@ -6,9 +6,9 @@ title: >-
 
 <hr class="solid">
 
-Trinity 2025, time, room 
+Trinity 2025, time and room TBD 
 
-Description of meeting. All interested parties are welcome; no prior acquaintance with, or affection for, Schmitt necessary.
+Carl Schmitt (1888-1985) was a controversial German thinker whose work has recently garnered new interest across the world. However, Schmitt's writing is often challenging and convoluted owing to its 20th century German jurisprudential roots. This seminar seeks to demystify Schmitt's political writings and offer participants good working knowledge of Schmitt's main political ideas like decisionism, the friend-enemy distinction, and his critique of liberal democracy. All interested parties are welcome. All interested parties are welcome; no prior acquaintance with, or affection for, Schmitt necessary.
 
 Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.liu@politics.ox.ac.uk">email me</a> to be added to the seminar’s mailing list.
 
@@ -54,7 +54,7 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 </h6>
 
 <h3>
-  <u>Week 2: Political Theology</u>
+  <u>Week 2: Political Theology</u> [<a href="https://docs.google.com/document/d/1xhToo9ZZCo4lbEcbEfrdg1RlaTYus0o5r01gmUjxHtU/edit?tab=t.0#heading=h.2sbcxls2ho75" target="_blank">handout</a>]
 </h3>
 <h6>
   Schmitt, Carl. [1922] 2005. <em>Political Theology: Four Chapters on the Concept of Sovereignty.</em> Translated by George Schwab. Chicago: University of Chicago Press. pp. 5–66.

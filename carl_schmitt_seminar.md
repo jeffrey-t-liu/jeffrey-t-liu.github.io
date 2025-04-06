@@ -17,7 +17,7 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
   <u>Week 1: Introduction</u>
 </h3>
 <h6>
-  Wolin, Richard. 1992. <a href="https://www.jstor.org/stable/192186" target="_blank">“Carl Schmitt: The Conservative Revolutionary Habitus and the Aesthetics of Horror.”</a> <em>Political Theory</em> 20 (3): 424–47.
+  * Wolin, Richard. 1992. <a href="https://www.jstor.org/stable/192186" target="_blank">“Carl Schmitt: The Conservative Revolutionary Habitus and the Aesthetics of Horror.”</a> <em>Political Theory</em> 20 (3): 424–47.
 </h6>
 <h6>
   Strong, Tracy B. “Carl Schmitt and Thomas Hobbes: Myth and Politics.” Foreword in Schmitt, Carl. <em>The Leviathan in the State Theory of Thomas Hobbes: Meaning and Failure of a Political Symbol.</em> Chicago: Univ. Of Chicago Press, 2008. pp. vii–xxviii.

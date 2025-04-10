@@ -6,7 +6,7 @@ title: >-
 
 <hr class="solid">
 
-Trinity 2025, time and room TBD 
+Trinity 2025, Tuesdays 13:00-14:30, Seminar Room B, Manor Road Building
 
 Carl Schmitt (1888-1985) was a controversial German thinker whose work has recently garnered new interest across the world. However, Schmitt's writing is often challenging and convoluted owing to its 20th century German jurisprudential roots. This seminar seeks to demystify Schmitt's political writings and offer participants good working knowledge of Schmitt's main political ideas like decisionism, the friend-enemy distinction, and his critique of liberal democracy. All interested parties are welcome. All interested parties are welcome; no prior acquaintance with, or affection for, Schmitt necessary.
 

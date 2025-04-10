@@ -10,7 +10,7 @@ Trinity 2025, Tuesdays 13:00-14:30, Seminar Room B, Manor Road Building
 
 Carl Schmitt (1888-1985) was a controversial German thinker whose work has recently garnered new interest across the world. However, Schmitt's writing is often challenging and convoluted owing to its 20th century German jurisprudential roots. This seminar seeks to demystify Schmitt's political writings and offer participants good working knowledge of Schmitt's main political ideas like decisionism, the friend-enemy distinction, and his critique of liberal democracy. All interested parties are welcome; no prior acquaintance with, or affection for, Schmitt necessary.
 
-Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.liu@politics.ox.ac.uk">email me</a> to be added to the seminar’s mailing list. Where there are multiple readings per week, recommeded readings are demarkated with an asterix (*).
+Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.liu@politics.ox.ac.uk">email me</a> to be added to the seminar’s mailing list. Where there are multiple readings per week, recommeded readings are demarkated with an asterix.
 
 <h3>
   <u>Week 1: Introduction</u>

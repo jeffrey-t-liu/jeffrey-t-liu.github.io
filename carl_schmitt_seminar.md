@@ -10,8 +10,7 @@ Trinity 2025, Tuesdays 13:00-14:30, Seminar Room B, Manor Road Building
 
 Carl Schmitt (1888-1985) was a controversial German thinker whose work has recently garnered new interest across the world. However, Schmitt's writing is often challenging and convoluted owing to its 20th century German jurisprudential roots. This seminar seeks to demystify Schmitt's political writings and offer participants good working knowledge of Schmitt's main political ideas like decisionism, the friend-enemy distinction, and his critique of liberal democracy. All interested parties are welcome; no prior acquaintance with, or affection for, Schmitt necessary.
 
-Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.liu@politics.ox.ac.uk">email me</a> to be added to the seminar’s mailing list.
-
+Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.liu@politics.ox.ac.uk">email me</a> to be added to the seminar’s mailing list. Where there are multiple readings per week, recommeded readings are demarkated with an asterix (*).
 
 <h3>
   <u>Week 1: Introduction</u>
@@ -64,7 +63,7 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
   <u>Week 3: The Concept of the Political</u> [<a href="https://docs.google.com/document/d/13CwjQgIBC2oKMOZWxDxF4rH5UfWbpf6X3Unr77s6u0g/edit?usp=sharing" target="_blank">handout</a>]
 </h3>
 <h6>
-  Schmitt, Carl. [1932] 2007. <em>The Concept of the Political.</em> Chicago, Ill. Univ. of Chicago Press. pp. 19–27; 37–53; 58–68.
+  * Schmitt, Carl. [1932] 2007. <em>The Concept of the Political.</em> Chicago, Ill. Univ. of Chicago Press. pp. 19–27; 37–53; 58–68.
 </h6>
 <h6>
   Schmitt, Carl. [1928] 2008. <em>Constitutional Theory.</em> Durham, NC. Duke University Press. pp. 125–139. 
@@ -76,3 +75,19 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 <h6>
   Schmitt, Carl. [1923] 1988. <em>The Crisis of Parliamentary Democracy.</em> Translated by Ellen Kennedy. Cambridge, Massachusetts: The MIT Press. pp. 18–21; 1–17. 
 </h6>
+
+<h3>
+   <u>Week 5: The Leviathan in the State Theory of Thomas Hobbes</u> []
+</h3>
+
+<h3>
+   <u>Week 6: Political Romanticism</u> []
+</h3>
+
+<h3>
+   <u>Week 7: The Nomos of the Earth</u> []
+</h3>
+
+<h3>
+   <u>Week 8: State, Movement, People</u> []
+</h3>

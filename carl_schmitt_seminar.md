@@ -13,7 +13,7 @@ Carl Schmitt (1888-1985) was a controversial German thinker whose work has recen
 Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.liu@politics.ox.ac.uk">email me</a> to be added to the seminar’s mailing list. Where there are multiple readings per week, recommeded readings are demarkated with an asterix.
 
 <h3>
-  <u>Week 1: Introduction</u>
+  <u>Week 1: Introduction</u> [<a href="https://docs.google.com/document/d/1CT2YDTtTzSfpEHf-0ejdKVWObN2eJSiyHWgdtaFSbbM/edit?usp=sharing" target="_blank">handout</a>]
 </h3>
 <h6>
   * Wolin, Richard. 1992. <a href="https://www.jstor.org/stable/192186" target="_blank">“Carl Schmitt: The Conservative Revolutionary Habitus and the Aesthetics of Horror.”</a> <em>Political Theory</em> 20 (3): 424–47.

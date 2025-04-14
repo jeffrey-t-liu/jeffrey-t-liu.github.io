@@ -79,6 +79,9 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 <h3>
    <u>Week 5: The Leviathan in the State Theory of Thomas Hobbes</u> []
 </h3>
+<h6>
+  Schmitt, Carl. [1938] 2008. <em>The Leviathan in the State Theory of Thomas Hobbes: Meaning and Failure of a Political Symbol.</em> Translated by George Schwab. Chicago: Univ. of Chicago Press. pp. 31–37; 53–74.
+</h6>
 
 <h3>
    <u>Week 6: Political Romanticism</u> []
@@ -87,7 +90,12 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 <h3>
    <u>Week 7: The Nomos of the Earth</u> []
 </h3>
-
+<h6>
+  Schmitt, Carl. [1950] 2006. <em>The Nomos of the Earth in the International Law of the Jus Publicum Europaeum.</em> Translated by G. L. Ulmen. New York: Telos Press. pp. 42–49; 324–335.
+</h6>
 <h3>
    <u>Week 8: State, Movement, People</u> []
 </h3>
+<h6>
+  Schmitt, Carl. [1950] 2001. <em>State, Movement, People: The Triadic Structure of the Political Unity.</em> Translated by Simona Draghici. Corvallis, Or: Plutarch Press. pp. 11–55.
+</h6>

@@ -86,7 +86,9 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 <h3>
    <u>Week 6: Political Romanticism</u> []
 </h3>
-
+<h6>
+  Schmitt, Carl. [1919] 2010. <em>Political Romanticism.</em> Translated by Guy Oakes. Somerset: Taylor and Francis. pp. tbd.
+</h6>
 <h3>
    <u>Week 7: The Nomos of the Earth</u> []
 </h3>

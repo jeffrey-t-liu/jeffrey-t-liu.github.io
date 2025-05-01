@@ -51,14 +51,14 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 <h6>
   Bratton, Benjamin H. 2016. <em>The Stack: On Software and Sovereignty.</em> Cambridge, Massachusetts: The MIT Press. pp. 19–40.
 </h6>
-
+<br>
 <h3>
   <u>Week 2: Political Theology</u> [<a href="https://docs.google.com/document/d/1xhToo9ZZCo4lbEcbEfrdg1RlaTYus0o5r01gmUjxHtU/edit?tab=t.0#heading=h.2sbcxls2ho75" target="_blank">handout</a>]
 </h3>
 <h6>
   Schmitt, Carl. [1922] 2005. <em>Political Theology: Four Chapters on the Concept of Sovereignty.</em> Translated by George Schwab. Chicago: University of Chicago Press. pp. 5–66.
 </h6>
-
+<br>
 <h3>
   <u>Week 3: The Concept of the Political</u> [<a href="https://docs.google.com/document/d/13CwjQgIBC2oKMOZWxDxF4rH5UfWbpf6X3Unr77s6u0g/edit?usp=sharing" target="_blank">handout</a>]
 </h3>
@@ -68,7 +68,6 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 <h6>
   Schmitt, Carl. [1928] 2008. <em>Constitutional Theory.</em> Durham, NC. Duke University Press. pp. 125–139. 
 </h6>
-
 <br>
 <h3>
   <u>Week 4: The Crisis of Parliamentary Democracy</u> [<a href="https://docs.google.com/document/d/19XNqZyHgJSu3pldiYl0h_vwoY_pJHK-xCBeAa5VcLKQ/edit?usp=sharing" target="_blank">handout</a>]
@@ -77,26 +76,27 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
   Schmitt, Carl. [1923] 1988. <em>The Crisis of Parliamentary Democracy.</em> Translated by Ellen Kennedy. Cambridge, Massachusetts: The MIT Press. pp. 18–21; 1–17. 
 </h6>
 <br>
-<br>
 <h3>
    <u>Week 5: The Leviathan in the State Theory of Thomas Hobbes</u> []
 </h3>
 <h6>
   Schmitt, Carl. [1938] 2008. <em>The Leviathan in the State Theory of Thomas Hobbes: Meaning and Failure of a Political Symbol.</em> Translated by George Schwab. Chicago: Univ. of Chicago Press. pp. 31–37; 53–74.
 </h6>
-
+<br>
 <h3>
    <u>Week 6: Political Romanticism</u> []
 </h3>
 <h6>
   Schmitt, Carl. [1919] 2010. <em>Political Romanticism.</em> Translated by Guy Oakes. Somerset: Taylor and Francis. pp. tbd.
 </h6>
+<br>
 <h3>
    <u>Week 7: The Nomos of the Earth</u> []
 </h3>
 <h6>
   Schmitt, Carl. [1950] 2006. <em>The Nomos of the Earth in the International Law of the Jus Publicum Europaeum.</em> Translated by G. L. Ulmen. New York: Telos Press. pp. 42–49; 324–335.
 </h6>
+<br>
 <h3>
    <u>Week 8: State, Movement, People</u> []
 </h3>

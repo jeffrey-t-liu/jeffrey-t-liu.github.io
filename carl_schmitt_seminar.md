@@ -69,7 +69,7 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
   Schmitt, Carl. [1928] 2008. <em>Constitutional Theory.</em> Durham, NC. Duke University Press. pp. 125–139. 
 </h6>
 
-<h3>
+<h3 style="font-weight: 800;">
   <u>Week 4: The Crisis of Parliamentary Democracy</u> [<a href="https://docs.google.com/document/d/19XNqZyHgJSu3pldiYl0h_vwoY_pJHK-xCBeAa5VcLKQ/edit?usp=sharing" target="_blank">handout</a>]
 </h3>
 <h6>

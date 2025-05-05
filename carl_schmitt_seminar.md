@@ -77,17 +77,17 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 </h6>
 <br>
 <h3>
-   <u>Week 5: The Leviathan in the State Theory of Thomas Hobbes</u> []
+   <u>Week 5: The Leviathan in the State Theory of Thomas Hobbes</u> [<a href="https://docs.google.com/document/d/1vj-hv7aZtW6qVi3O0HIS_FfIZXQmfOyGll2pomCLiYk/edit?usp=sharing" target="_blank">handout</a>]
 </h3>
 <h6>
   Schmitt, Carl. [1938] 2008. <em>The Leviathan in the State Theory of Thomas Hobbes: Meaning and Failure of a Political Symbol.</em> Translated by George Schwab. Chicago: Univ. of Chicago Press. pp. 31–37; 53–74.
 </h6>
 <br>
 <h3>
-   <u>Week 6: Political Romanticism</u> []
+   <u>Week 6: Political Romanticism</u> [<a href="https://docs.google.com/document/d/1MXCckr7witzGY8tf_leZ32PVYeNEWQjl1Ln7B6kVgvM/edit?usp=sharing" target="_blank">handout</a>]
 </h3>
 <h6>
-  Schmitt, Carl. [1919] 2010. <em>Political Romanticism.</em> Translated by Guy Oakes. Somerset: Taylor and Francis. pp. tbd.
+  Schmitt, Carl. [1919] 2010. <em>Political Romanticism.</em> Translated by Guy Oakes. Somerset: Taylor and Francis. pp. 109–127; 144–162.
 </h6>
 <br>
 <h3>

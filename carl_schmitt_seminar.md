@@ -91,7 +91,7 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 </h6>
 <br>
 <h3>
-   <u>Week 7: The Nomos of the Earth</u> []
+   <u>Week 7: The Nomos of the Earth</u> [<a href="https://docs.google.com/document/d/1u98TaB06sTmEAmYRVGl2t2-nRsEPq7yKrnF6DFGpQ54/edit?usp=sharing" target="_blank">handout</a>]
 </h3>
 <h6>
   Schmitt, Carl. [1950] 2006. <em>The Nomos of the Earth in the International Law of the Jus Publicum Europaeum.</em> Translated by G. L. Ulmen. New York: Telos Press. pp. 42–49; 324–335.

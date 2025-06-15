@@ -98,7 +98,7 @@ Unlinked readings will be distributed by email. Please <a href="mailto:jeffrey.l
 </h6>
 <br>
 <h3>
-   <u>Week 8: State, Movement, People</u> []
+   <u>Week 8: State, Movement, People</u> [<a href="https://docs.google.com/document/d/1CUCKNBWX8XMlRGp7MQNwbUWkYLQ6uRRpGo2IyGzgiQQ/edit?usp=sharing" target="_blank">handout</a>]
 </h3>
 <h6>
   Schmitt, Carl. [1950] 2001. <em>State, Movement, People: The Triadic Structure of the Political Unity.</em> Translated by Simona Draghici. Corvallis, Or: Plutarch Press. pp. 11–55.

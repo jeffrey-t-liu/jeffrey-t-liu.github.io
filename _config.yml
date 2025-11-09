@@ -12,5 +12,6 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-sitemap
 
 

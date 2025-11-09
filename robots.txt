@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
 Sitemap: https://jeffrey-t-liu.github.io/sitemap.xml
+Sitemap: https://jeffrey-t-liu.github.io/sitemap.txt
